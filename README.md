@@ -1,2 +1,3 @@
 # SUSD-TR
-SUSD-TR (Pengcheng Xie)
+SUSD-TR Copyright: Pengcheng Xie
+Trust region based speeding-up and slowing-down direction method
